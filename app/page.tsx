@@ -7,7 +7,7 @@ export default function Home() {
         <h1 className="text-2xl font-bold text-pesabrand-dark">PesaBot</h1>
         <p className="text-sm text-pesabrand-dark/70">
           Tell me a savings goal — I&apos;ll turn it into a daily plan and,
-          when you confirm, trigger a real M-Pesa prompt (sandbox).
+          when you confirm, trigger a real M-Pesa prompt (sandbox). brenda
         </p>
       </header>
       <ChatPanel />
